@@ -1,4 +1,4 @@
-# java Eclipse超市收银系统
+# javaEclipse超市收银系统
 
 
 
